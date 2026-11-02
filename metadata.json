@@ -1,0 +1,6 @@
+{
+  "name": "TirtaFire - Karhutla Water Relief & Games",
+  "description": "Play interactive games to fund real water donations and canal rewetting for Indonesian peatland wildfire (Karhutla) brigades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
